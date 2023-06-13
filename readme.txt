@@ -1,2 +1,2 @@
 
-Official implementation for paper "Visible RGBD: a unified multi-modality embedding framework".
+Official implementation for paper "A unified multi-modality embedding".
